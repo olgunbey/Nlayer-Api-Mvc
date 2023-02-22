@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NLayer.WEB
+build_property.RootNamespace = NLayer.WEB
+build_property.ProjectDir = C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.WEB\NLayer.WEB\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.WEB\NLayer.WEB
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Views/Product/CategoriItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDYXRlZ29yaUl0ZW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Views/Product/CategoriSec.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDYXRlZ29yaVNlYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Views/Product/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/olgun/OneDrive/Masaüstü/NLayer/Nlayer.WEB/NLayer.WEB/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-139a8k96oz

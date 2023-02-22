@@ -1,0 +1,34 @@
+﻿@using Nlayer.Core.DTOs;
+
+
+@model List<ProductDTO>
+
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+            <td>ID</td>
+            <td>Name</td>
+            <td>Price</td>
+            <td>Stok</td>
+            <td>CreatedDate</td>
+            </tr>
+        </thead>
+        <tbody>
+        @{
+            foreach (var item in Model)
+
+            {
+                        <tr>
+                         <td>@item.EntityID</td>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td>@item.Stock</td>
+                    <td>@item.CreatedTime</td>
+                        </tr>
+            }
+        }
+
+        </tbody>
+    </table>
+

@@ -1,0 +1,8 @@
+﻿@using Nlayer.Core.DTOs;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model ProductDTO
+
+<form asp-action="CategoriSecc" asp-controller="Product" method="post" >
+    <select asp-for="CategoryId" asp-items="ViewBag.cs" name="categoryID" ></select>
+    <button>Gönder</button>
+</form>

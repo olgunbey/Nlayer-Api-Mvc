@@ -1,0 +1,17 @@
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\bin\Debug\net7.0\Nlayer.Repository.deps.json
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\bin\Debug\net7.0\Nlayer.Repository.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\bin\Debug\net7.0\Nlayer.Repository.pdb
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\bin\Debug\net7.0\Nlayer.Core.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\bin\Debug\net7.0\Nlayer.Core.pdb
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\Nlayer.Repository.csproj.AssemblyReference.cache
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\Nlayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\Nlayer.Repository.AssemblyInfoInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\Nlayer.Repository.AssemblyInfo.cs
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\Nlayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\Nlayer.Repository.csproj.CopyComplete
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\Nlayer.Repository.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\refint\Nlayer.Repository.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\Nlayer.Repository.pdb
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\ref\Nlayer.Repository.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\bin\Debug\net7.0\Nlayer.Repository.runtimeconfig.json
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Repository\Nlayer.Repository\obj\Debug\net7.0\Nlayer.Repository.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\bin\Debug\net7.0\Nlayer.Core.deps.json
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\bin\Debug\net7.0\Nlayer.Core.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\bin\Debug\net7.0\Nlayer.Core.pdb
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\obj\Debug\net7.0\Nlayer.Core.csproj.AssemblyReference.cache
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\obj\Debug\net7.0\Nlayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\obj\Debug\net7.0\Nlayer.Core.AssemblyInfoInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\obj\Debug\net7.0\Nlayer.Core.AssemblyInfo.cs
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\obj\Debug\net7.0\Nlayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\obj\Debug\net7.0\Nlayer.Core.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\obj\Debug\net7.0\refint\Nlayer.Core.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\obj\Debug\net7.0\Nlayer.Core.pdb
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Core\Nlayer.Core\obj\Debug\net7.0\ref\Nlayer.Core.dll

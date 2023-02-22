@@ -1,0 +1,17 @@
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\bin\Debug\net7.0\Nlayer.Services.deps.json
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\bin\Debug\net7.0\Nlayer.Services.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\bin\Debug\net7.0\Nlayer.Services.pdb
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\bin\Debug\net7.0\Nlayer.Core.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\bin\Debug\net7.0\Nlayer.Repository.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\bin\Debug\net7.0\Nlayer.Repository.pdb
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\bin\Debug\net7.0\Nlayer.Core.pdb
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\obj\Debug\net7.0\Nlayer.Services.csproj.AssemblyReference.cache
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\obj\Debug\net7.0\Nlayer.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\obj\Debug\net7.0\Nlayer.Services.AssemblyInfoInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\obj\Debug\net7.0\Nlayer.Services.AssemblyInfo.cs
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\obj\Debug\net7.0\Nlayer.Services.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\obj\Debug\net7.0\Nlayer.Services.csproj.CopyComplete
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\obj\Debug\net7.0\Nlayer.Services.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\obj\Debug\net7.0\refint\Nlayer.Services.dll
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\obj\Debug\net7.0\Nlayer.Services.pdb
+C:\Users\olgun\OneDrive\Masaüstü\NLayer\Nlayer.Services\Nlayer.Services\obj\Debug\net7.0\ref\Nlayer.Services.dll
